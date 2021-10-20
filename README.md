@@ -1,3 +1,2 @@
-# team-3
-
-ECU University Center Cafe
+# Software design
+ ECU cafe web using html, css, and js...

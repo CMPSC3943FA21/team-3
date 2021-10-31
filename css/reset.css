@@ -52,7 +52,7 @@
         font-size:100%;
         vertical-align:baseline;
         background:transparent;
-        color: #ffffff;
+        color: black;
     }
 
     /* change colours to suit your needs */
@@ -86,11 +86,10 @@
 
     /* change border colour to suit your needs */
     hr {
+        height: 1px;
         margin: auto;
         width:50%;   
         color: transparent;
-       
-
     }
 
     input, select {

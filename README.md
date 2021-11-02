@@ -27,12 +27,12 @@ This project was bootstrapped with [Apache Netbeans app](https://netbeans.apache
 * Microsoft Visual Studio
 * installing nodejs will make things easier
 
-##	📃 Available Scripts
+## 📜 Available Scripts
 Download the project from the directory, and then open it in any of the tools used:
 * Ctrl + B -> Sublime Text 2/3/4 
 * Alt + B -> Visual Studio Code
 * Shift-f6 -> Apache Netbeans
-##Note: The shortcut keys to run the file can be customized so it may vary depending on the IDE.
+#### 📑 Note: The shortcut keys to run the file can be customized so it may vary depending on the IDE.
 
 ## 🖥️ Installation required to run !!!
 <br>📌 Mozilla Firefox

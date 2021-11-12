@@ -38,10 +38,10 @@ Download the project from the directory, and then open it in any of the tools us
 
 ## 🚀 Usage
 In Visual studio Code if NodeJs is used;
-```
+```css
 npm install
 ```
-```
+```js
 npm run start
 node '.js/$file'
 ```

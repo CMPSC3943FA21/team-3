@@ -8,6 +8,9 @@ About this Project
 
 <p align="center">
   <img src="https://img.shields.io/npm/v/readme-md-generator.svg?orange=blue" />
+  <a href="https://www.npmjs.com/package/readme-md-generator">
+    <img alt="downloads" src="https://img.shields.io/npm/dm/readme-md-generator.svg?color=blue" target="_blank" />
+  </a>
   <a href="https://codecov.io/gh/kefranabg/readme-md-generator">
     <img src="https://codecov.io/gh/kefranabg/readme-md-generator/branch/master/graph/badge.svg" />
   </a>
@@ -24,12 +27,12 @@ This project was bootstrapped with [Apache Netbeans app](https://netbeans.apache
 * Microsoft Visual Studio
 * installing nodejs will make things easier
 
-## 📜 Available Scripts
+##	📃 Available Scripts
 Download the project from the directory, and then open it in any of the tools used:
 * Ctrl + B -> Sublime Text 2/3/4 
 * Alt + B -> Visual Studio Code
 * Shift-f6 -> Apache Netbeans
-#### 📑 Note: The shortcut keys to run the file can be customized so it may vary depending on the IDE.
+##Note: The shortcut keys to run the file can be customized so it may vary depending on the IDE.
 
 ## 🖥️ Installation required to run !!!
 <br>📌 Mozilla Firefox
@@ -38,10 +41,10 @@ Download the project from the directory, and then open it in any of the tools us
 
 ## 🚀 Usage
 In Visual studio Code if NodeJs is used;
-```css
+```
 npm install
 ```
-```js
+```
 npm run start
 node '.js/$file'
 ```

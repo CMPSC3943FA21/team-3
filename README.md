@@ -57,7 +57,7 @@ For more details, Watch !!! [JavaScript Web Developer Bootcamp - Complete Guide 
 
 ## Authors
 
-👩 **Kim Min SUn**
+👩 **Kim Min Sun**
 <br>👤 **Riwaz Gyawali**
 <br>👤 **Rujan Bhuju**
 <br>👤 **Obu Stanford**

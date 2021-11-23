@@ -208,7 +208,7 @@ header nav ul li a {
   -o-transition: all 0.2s linear;
   transition-property: all;
   transition-timing-function: ease-in-out;
-  transition: 1s ease-in-out;
+  transition: 0.5s ease-in-out;
 }
 
 header.light nav ul li a {
@@ -404,7 +404,7 @@ footer nav ul li a {
   -o-transition: all 0.2s linear;
   transition-property: all;
   transition-timing-function: ease-in-out;
-  transition: 1s ease-in-out;
+  transition: 0.5s ease-in-out;
 }
 
 footer nav ul li a:hover {

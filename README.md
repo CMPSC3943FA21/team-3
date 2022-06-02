@@ -63,6 +63,9 @@ For more details, Watch !!! [JavaScript Web Developer Bootcamp - Complete Guide 
 <br>👤 **Sachin Samal**
 
  Github: [Sacsam005](https://github.com/Sacsam005)
+ 
+ Github: [Stan12392](https://github.com/Stan12392)
+ 
 
 ## Show your support
 
